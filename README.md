@@ -4,7 +4,7 @@ A MATLAB Program which detects and visualizes changes of satellite pictures.
 
 *************************
 
-Requirements:
+## Requirements:
 
 Matlab (Version 2021a)
 Statistics and Machine Learning Toolbox
@@ -14,11 +14,13 @@ Signal Processing Toolbox
 
 *************************
 
+## Get Started
+
 Application will be executed by running the file main.m on Matlab.
 After running the main.m file the GUI window of the application will be opened. 
 Another popup window will be shown, where either an image folder can be selected or the application can be quit.
 
-Interactive mode:
+### Interactive mode:
 
 The Interactive mode is activated by default.
 After selecting an image folder, all images inside the folder will be shown on a timeline, sorted by time.
@@ -29,7 +31,7 @@ The 'Changes' checkboxes allow the user to show specific land changes.
 The checkboxes 'Small Changes' and 'Large Changes' allows the user to only display small and big change clusters.
 Two compare the next two adjacent images on the timeline, the timeline slider can be dragged to the next intervall. By pressing the button 'Analyze this interval' the change detection starts.
 
-Manual mode:
+### Manual mode:
 
 If the user want to compare two specific images that are not adjacent, the user can switch to the Manual mode.
 Using the checkboxes the user can select the two images that should be compared. By pressing on the button 'Compare selected image' the change detection starts.
