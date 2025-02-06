@@ -18,6 +18,10 @@ Application will be executed by running the file main.m on Matlab.
 After running the main.m file the GUI window of the application will be opened. 
 Another popup window will be shown, where either an image folder can be selected or the application can be quit.
 
+### Preview
+
+![](preview_img/preview.png)
+
 ### Interactive mode:
 
 The Interactive mode is activated by default.
