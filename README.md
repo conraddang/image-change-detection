@@ -2,17 +2,15 @@
 
 A MATLAB Program which detects and visualizes changes of satellite pictures.
 
-*************************
 
 ## Requirements:
 
-Matlab (Version 2021a)
-Statistics and Machine Learning Toolbox
-Computer Vision Toolbox
-Image Processing Toolbox
-Signal Processing Toolbox
+- Matlab (Version 2021a)
+- Statistics and Machine Learning Toolbox
+- Computer Vision Toolbox
+- Image Processing Toolbox
+- Signal Processing Toolbox
 
-*************************
 
 ## Get Started
 
