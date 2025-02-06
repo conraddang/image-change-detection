@@ -4,9 +4,7 @@ A MATLAB Program which detects and visualizes changes of satellite pictures.
 
 ![](preview_img/poster.png)
 
-[![Watch the video](https://youtu.be/whLk7mnJJTw)](https://youtu.be/whLk7mnJJTw)
-
-
+[![Watch the demo video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=whLk7mnJJTw)
 
 ## Requirements:
 
