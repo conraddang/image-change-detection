@@ -20,7 +20,7 @@ Another popup window will be shown, where either an image folder can be selected
 
 ### Preview
 
-![](preview_img/preview.png)
+![](preview_img/preview.pdf)
 
 ### Interactive mode:
 
