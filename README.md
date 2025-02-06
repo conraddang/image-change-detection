@@ -2,6 +2,8 @@
 
 A MATLAB Program which detects and visualizes changes of satellite pictures.
 
+![](preview_img/poster.png)
+
 
 ## Requirements:
 
@@ -20,7 +22,7 @@ Another popup window will be shown, where either an image folder can be selected
 
 ### Preview
 
-![](preview_img/preview.pdf)
+![](preview_img/preview.png)
 
 ### Interactive mode:
 
