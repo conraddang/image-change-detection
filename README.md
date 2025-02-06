@@ -1,8 +1,11 @@
-# Rotation and Scale Invariant Change Detection Application in Matlab
+# Rotation and Scale Invariant Change Detection Application
 
 A MATLAB Program which detects and visualizes changes of satellite pictures.
 
 ![](preview_img/poster.png)
+
+[![Watch the video](https://youtu.be/whLk7mnJJTw)](https://youtu.be/whLk7mnJJTw)
+
 
 
 ## Requirements:
